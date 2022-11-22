@@ -4,10 +4,11 @@
 
 <h2 width="100%">👨‍ Acerca de mi: </h2>
 
-Mi nombre es Gaston Frissiones, soy de la ciudad de Buenos Aires, Argentina. 
+Mi nombre es Gaston Frissiones, soy de Ciudad de Buenos Aires, Argentina. 
 
-Soy un desarrollador full stack recién egresado, apasionado al aprendizaje, a los desafíos y muy curioso. Me considero proactivo, responsable, empático y enfocado a cumplir todos los objetivos de manera rápida y eficaz. 
+Soy un desarrollador Full Stack recién egresado, apasionado al aprendizaje, a los desafíos y muy curioso. Me considero proactivo, responsable, empático y enfocado a cumplir todos los objetivos de manera rápida y eficaz. 
 Desde chico tuve interés por la tecnología, pero la vida me fue llevando por otros caminos. Es por esto que decidí dar un giro y emprender en este interesante mundo del desarrollo web y de software. 
+
 Es así que encontré y comencé a estudiar en Henry y hoy me encuentro en la búsqueda de esa primera oportunidad para poder seguir aprendiendo y desarrollandome como profesional para poder crear y/o aportar soluciones para este mundo en constante cambio.
 Tuve la oportunidad de viajar bastante y conocer diferentes culturas, por lo cual me considero una persona de mente abierta, cosmopolita y de fácil adaptación con un gran compromiso y responsabilidad frente al trabajo, en una constante búsqueda de capacitación y actualización de mis skills.
 
