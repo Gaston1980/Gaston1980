@@ -1,4 +1,4 @@
-![Gaston1980](bannerGit.gif)
+![Gaston1980](https://res.cloudinary.com/dyycj9vam/image/upload/v1669075226/GitHub_banner_k1wvkc.png)
 
 ### ¡Bienvenidos! 🙌
 
