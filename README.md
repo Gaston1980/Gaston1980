@@ -13,9 +13,9 @@ Es así que encontré y comencé a estudiar en Henry y hoy me encuentro en la b�
 Tuve la oportunidad de viajar bastante y conocer diferentes culturas, por lo cual me considero una persona de mente abierta, cosmopolita y de fácil adaptación con un gran compromiso y responsabilidad frente al trabajo, en una constante búsqueda de capacitación y actualización de mis skills.
 
 En cuanto a mi experiencia laboral previa al mundo de la tecnología, Estuve encargado de la condución, coordinación, planificación, presupuestos, negociaciones, relaciones públicas e institucionales, diseño, prensa y organización de eventos de diferentes campañas de lanzamientos editoriales en una agencia de publicidad.
-Tambien en la venta internacional de cristaleria, plateria, porcelana francesa y la administración de departamentos de alquiler temporario.
+Tambien en la venta internacional de cristaleria, plateria, porcelana francesa, etc y la administración de departamentos de alquiler temporario.
 
-En relación a mi experiencia academica, realicé la carrera de Comunicación Social con orientación en Publicidad, aprobe 2 años completos de una Linceciatura en Ciencias Económicas y complete un curso de Inglés como segundo idioma en Los Angeles, CA, USA. A su vez, finalicé mis estudios como Desarrollador Web Full-Stack en Soy Henry, adquiriendo conocimientos en React.js, Redux, Node.js, Express.js, PostgreSQL y Sequelize, Javascript, Css, HTML.
+En relación a mi experiencia académica, realicé la carrera de Comunicación Social con orientación en Publicidad, aprobé 2 años completos de una Linceciatura en Ciencias Económicas y completé un curso de Inglés como segundo idioma en Los Angeles, CA, USA. A su vez, finalicé mis estudios como Desarrollador Web Full-Stack en Soy Henry, adquiriendo conocimientos en React.js, Redux, Node.js, Express.js, PostgreSQL y Sequelize, Javascript, Css, HTML.
 
 <h2 width="100%">👨‍💻 Tecnologías: </h2>
 
