@@ -1,8 +1,8 @@
 ![Gaston1980](https://res.cloudinary.com/dyycj9vam/image/upload/v1669075226/GitHub_banner_k1wvkc.png)
 
-### ¡Bienvenidos! 🙌
+### ¡Welcome! 🙌
 
-<h2 width="100%">👨‍ Acerca de mi: </h2>
+<h2 width="100%">👨‍ About me: </h2>
 
 My name is Gaston Frissiones, and I am from Buenos Aires, Argentina.
 
