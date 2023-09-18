@@ -17,15 +17,18 @@ In terms of my academic background, I pursued a degree in Social Communication w
 <h2 width="100%">👨‍💻 Technologies: </h2>
 
 <div>
+  <img src="https://skillicons.dev/icons?i=vite" title="Vite" alt="Vite" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=javascript" title="JavaScript" alt="JavaScript" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=react" title="React" alt="React" width="40" height="40"/> 
   <img src="https://skillicons.dev/icons?i=redux" title="Redux" alt="Redux " width="40" height="40"/> 
-  <img src="https://skillicons.dev/icons?i=css"  title="CSS3" alt="CSS" width="40" height="40"/> 
+  <img src="https://skillicons.dev/icons?i=css"  title="CSS3" alt="CSS" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=html" title="HTML5" alt="HTML" width="40" height="40"/>  
   <img src="https://skillicons.dev/icons?i=nodejs" title="NodeJS" alt="NodeJS" width="40" height="40"/> 
   <img src="https://skillicons.dev/icons?i=express" title="Express" **alt="Express" width="40" height="40"/>
   <img src="https://seeklogo.com/images/S/sequelize-logo-9A5075DB9F-seeklogo.com.png" title="Sequelize" alt="Sequelize" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=postgresql" title="PostgreSQL"  alt="PostgreSQL" width="40" height="40"/> 
+  <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB"  alt="MongoDB" width="40" height="40"/> 
+  <img src="https://skillicons.dev/icons?i=docker" title="Docker" alt="Docker" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=github" title="Github" **alt="Github" width="40" height="40"/>
 </div>
 
